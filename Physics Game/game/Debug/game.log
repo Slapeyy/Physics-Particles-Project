@@ -1,0 +1,25 @@
+﻿  main.cpp
+  MyGame.cpp
+G:\Kingston University\1st Year\Term 2\Games Science\GTEC Work\Final Game Science Project\Physics Game\game\MyGame.cpp(26,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Kingston University\1st Year\Term 2\Games Science\GTEC Work\Final Game Science Project\Physics Game\game\MyGame.cpp(26,26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SpriteExplosion.cpp
+G:\Kingston University\1st Year\Term 2\Games Science\GTEC Work\Final Game Science Project\Physics Game\game\SpriteExplosion.cpp(105,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Kingston University\1st Year\Term 2\Games Science\GTEC Work\Final Game Science Project\Physics Game\game\SpriteExplosion.cpp(105,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  game.vcxproj -> G:\Kingston University\1st Year\Term 2\Games Science\GTEC Work\Final Game Science Project\Physics Game\Debug\Fireworx.exe
